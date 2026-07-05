@@ -21,11 +21,3 @@ Technologies Used
 
 - HTML
 - CSS
-
-Status
-
-Completed and documented as part of my learning archive.
-
-Notes
-
-This project uses internal CSS within the HTML file. It was created as a learning project focused on understanding CSS positioning, transforms, transitions, and layout concepts.
